@@ -12,7 +12,7 @@ logos:
   dark:
     optimized: images/logo.svg
     fallback: images/logo.svg
-palette: ''
+palette: default
 palettes:
   default:
     sass:
